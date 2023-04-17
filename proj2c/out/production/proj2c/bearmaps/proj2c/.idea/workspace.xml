@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="adaf0d5b-af79-4c1f-af27-7f0404f2faf8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../proj2ab/DoubleMapPQ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2ab/ExtrinsicMinPQ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AStarGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LazySolver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ShortestPathsSolver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SolutionPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SolverOutcome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeightedEdge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/input/BasicPuzzle1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/input/BasicPuzzle2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/input/BasicPuzzle3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/input/BasicPuzzle4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/input/ElitePuzzle1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/input/ElitePuzzle2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/input/ElitePuzzle3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/input/HardPuzzle1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/input/HardPuzzle2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/input/HardPuzzle3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/input/berkeley-street-data.simple" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/input/words10000.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/integerhoppuzzle/DemoIntegerHopPuzzleSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/integerhoppuzzle/IntegerHopGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lectureexample/DemoAlternateExampleSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lectureexample/DemoLectureExampleSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lectureexample/WeightedDirectedGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sanitytests/SanityTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slidingpuzzle/Board.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slidingpuzzle/BoardGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slidingpuzzle/DemoRunSeveralPuzzles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slidingpuzzle/DemoSlidingPuzzleSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/streetmap/DemoStreetDirections.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/streetmap/GraphBuildingHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/streetmap/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/streetmap/StreetMapGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wordladderpuzzle/DemoWordPuzzleSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wordladderpuzzle/WordGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../proj2d/bearmaps/proj2ab/DoubleMapPQ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../proj2d/bearmaps/proj2ab/ExtrinsicMinPQ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../proj2d/bearmaps/proj2ab/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../proj2d/bearmaps/proj2ab/PointSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../proj2d/bearmaps/proj2ab/WeirdPointSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../proj2d/bearmaps/proj2c/AStarGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../proj2d/bearmaps/proj2c/ShortestPathsSolver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../proj2d/bearmaps/proj2c/SolverOutcome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../proj2d/bearmaps/proj2c/WeightedEdge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../proj2d/bearmaps/proj2c/WeirdSolver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../proj2d/bearmaps/proj2c/streetmap/GraphBuildingHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../proj2d/bearmaps/proj2c/streetmap/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../proj2d/bearmaps/proj2c/streetmap/StreetMapGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../proj2d/bearmaps/proj2d/AugmentedStreetMapGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../proj2d/bearmaps/proj2d/MapServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../proj2d/bearmaps/proj2d/MapServerInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../proj2d/bearmaps/proj2d/Router.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../proj2d/bearmaps/proj2d/server/handler/APIRouteHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../proj2d/bearmaps/proj2d/server/handler/APIRouteHandlerFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../proj2d/bearmaps/proj2d/server/handler/impl/ClearRouteAPIHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../proj2d/bearmaps/proj2d/server/handler/impl/RasterAPIHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../proj2d/bearmaps/proj2d/server/handler/impl/RedirectAPIHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../proj2d/bearmaps/proj2d/server/handler/impl/RoutingAPIHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../proj2d/bearmaps/proj2d/server/handler/impl/SearchAPIHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../proj2d/bearmaps/proj2d/utils/Constants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../proj2d/bearmaps/proj2d/utils/Tuple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../proj2d/bearmaps/test/TestDirections.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../proj2d/bearmaps/test/TestRasterAPIHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../proj2d/bearmaps/test/TestRouter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../proj2d/bearmaps/test/TestRouterTiny.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../proj2d/static/page/map.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../proj2d/static/page/marker.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../proj2d/static/page/round_marker.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../proj2d/static/page/scripts/map.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../proj2d/static/page/styles/map.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../proj2d/static/simple/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../proj2d/static/simple/test1234.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../proj2d/static/simple/testTwelveImages.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../library-fa20" beforeDir="false" afterPath="$PROJECT_DIR$/../../../library-fa20" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1jzfGX3h54AU60j0qCWcZktY5qq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <useClassPathOnly />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-XX:+ShowCodeDetailsInExceptionMessages" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="adaf0d5b-af79-4c1f-af27-7f0404f2faf8" name="Default Changelist" comment="" />
+      <created>1604811747874</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604811747874</updated>
+    </task>
+    <servers />
+  </component>
+</project>
