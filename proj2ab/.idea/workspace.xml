@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ed184187-9712-4894-9f94-d876615d4ee7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1ivjk3O0KJAAS3Ag3jWfbx8FBgo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunManager" selected="JUnit.ArrayHeapMinPQTest">
+    <configuration name="ArrayHeapMinPQTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="proj2ab" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bearmaps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="bearmaps" />
+      <option name="MAIN_CLASS_NAME" value="bearmaps.ArrayHeapMinPQTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-XX:+ShowCodeDetailsInExceptionMessages" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayHeapMinPQTest.changePriorityTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="proj2ab" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bearmaps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="bearmaps" />
+      <option name="MAIN_CLASS_NAME" value="bearmaps.ArrayHeapMinPQTest" />
+      <option name="METHOD_NAME" value="changePriorityTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-XX:+ShowCodeDetailsInExceptionMessages" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayHeapMinPQTest.getSmallestTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="proj2ab" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bearmaps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="bearmaps" />
+      <option name="MAIN_CLASS_NAME" value="bearmaps.ArrayHeapMinPQTest" />
+      <option name="METHOD_NAME" value="getSmallestTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-XX:+ShowCodeDetailsInExceptionMessages" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayHeapMinPQTest.removeSmallestTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="proj2ab" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bearmaps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="bearmaps" />
+      <option name="MAIN_CLASS_NAME" value="bearmaps.ArrayHeapMinPQTest" />
+      <option name="METHOD_NAME" value="removeSmallestTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-XX:+ShowCodeDetailsInExceptionMessages" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayHeapMinPQTest.timeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="proj2ab" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bearmaps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="bearmaps" />
+      <option name="MAIN_CLASS_NAME" value="bearmaps.ArrayHeapMinPQTest" />
+      <option name="METHOD_NAME" value="timeTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-XX:+ShowCodeDetailsInExceptionMessages" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <useClassPathOnly />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-XX:+ShowCodeDetailsInExceptionMessages" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ArrayHeapMinPQTest" />
+        <item itemvalue="JUnit.ArrayHeapMinPQTest.timeTest" />
+        <item itemvalue="JUnit.ArrayHeapMinPQTest.changePriorityTest" />
+        <item itemvalue="JUnit.ArrayHeapMinPQTest.removeSmallestTest" />
+        <item itemvalue="JUnit.ArrayHeapMinPQTest.getSmallestTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ed184187-9712-4894-9f94-d876615d4ee7" name="Default Changelist" comment="" />
+      <created>1602795101108</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602795101108</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="480" y="351" width="479" height="245" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1602796870694">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="480" y="351" width="479" height="245" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1440.900@0.0.1440.900" timestamp="1602796870694" />
+    <state width="773" height="277" key="GridCell.Tab.0.bottom" timestamp="1603863575088">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1398" height="312" key="GridCell.Tab.0.bottom/0.0.1440.900/-255.-1080.1920.1080@0.0.1440.900" timestamp="1602963569945" />
+    <state width="773" height="277" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1603534458776" />
+    <state width="1398" height="189" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1603535439172" />
+    <state width="773" height="277" key="GridCell.Tab.0.bottom/0.23.1440.827@0.23.1440.827" timestamp="1603863575087" />
+    <state width="773" height="277" key="GridCell.Tab.0.center" timestamp="1603863575084">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1398" height="312" key="GridCell.Tab.0.center/0.0.1440.900/-255.-1080.1920.1080@0.0.1440.900" timestamp="1602963569940" />
+    <state width="773" height="277" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1603534458774" />
+    <state width="1398" height="189" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1603535439170" />
+    <state width="773" height="277" key="GridCell.Tab.0.center/0.23.1440.827@0.23.1440.827" timestamp="1603863575084" />
+    <state width="773" height="277" key="GridCell.Tab.0.left" timestamp="1603863575083">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1398" height="312" key="GridCell.Tab.0.left/0.0.1440.900/-255.-1080.1920.1080@0.0.1440.900" timestamp="1602963569939" />
+    <state width="773" height="277" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1603534458772" />
+    <state width="1398" height="189" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1603535439169" />
+    <state width="773" height="277" key="GridCell.Tab.0.left/0.23.1440.827@0.23.1440.827" timestamp="1603863575083" />
+    <state width="773" height="277" key="GridCell.Tab.0.right" timestamp="1603863575087">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1398" height="312" key="GridCell.Tab.0.right/0.0.1440.900/-255.-1080.1920.1080@0.0.1440.900" timestamp="1602963569942" />
+    <state width="773" height="277" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1603534458775" />
+    <state width="1398" height="189" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1603535439171" />
+    <state width="773" height="277" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1603863575087" />
+    <state width="773" height="277" key="GridCell.Tab.1.bottom" timestamp="1603863575092">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="773" height="277" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1603534458782" />
+    <state width="1398" height="250" key="GridCell.Tab.1.bottom/0.23.1440.826@0.23.1440.826" timestamp="1603524944927" />
+    <state width="773" height="277" key="GridCell.Tab.1.bottom/0.23.1440.827@0.23.1440.827" timestamp="1603863575092" />
+    <state width="773" height="277" key="GridCell.Tab.1.center" timestamp="1603863575091">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="773" height="277" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1603534458779" />
+    <state width="1398" height="250" key="GridCell.Tab.1.center/0.23.1440.826@0.23.1440.826" timestamp="1603524944924" />
+    <state width="773" height="277" key="GridCell.Tab.1.center/0.23.1440.827@0.23.1440.827" timestamp="1603863575091" />
+    <state width="773" height="277" key="GridCell.Tab.1.left" timestamp="1603863575088">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="773" height="277" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1603534458777" />
+    <state width="1398" height="250" key="GridCell.Tab.1.left/0.23.1440.826@0.23.1440.826" timestamp="1603524944920" />
+    <state width="773" height="277" key="GridCell.Tab.1.left/0.23.1440.827@0.23.1440.827" timestamp="1603863575088" />
+    <state width="773" height="277" key="GridCell.Tab.1.right" timestamp="1603863575091">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="773" height="277" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1603534458780" />
+    <state width="1398" height="250" key="GridCell.Tab.1.right/0.23.1440.826@0.23.1440.826" timestamp="1603524944926" />
+    <state width="773" height="277" key="GridCell.Tab.1.right/0.23.1440.827@0.23.1440.827" timestamp="1603863575091" />
+    <state x="221" y="63" key="SettingsEditor" timestamp="1603494149474">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="221" y="63" key="SettingsEditor/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1602889496267" />
+    <state x="221" y="63" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1603494149474" />
+  </component>
+</project>

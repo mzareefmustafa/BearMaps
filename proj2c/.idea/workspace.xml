@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bdf94f34-8b51-4a36-a0f3-0a00b4c7307b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1jzqmU4BuTFGK1geEMoQ7i1Opr1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15429688" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunManager" selected="Application.DemoSlidingPuzzleSolution">
+    <configuration name="DemoLectureExampleSolution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bearmaps.proj2c.lectureexample.DemoLectureExampleSolution" />
+      <module name="proj2c" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bearmaps.proj2c.lectureexample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoSlidingPuzzleSolution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bearmaps.proj2c.slidingpuzzle.DemoSlidingPuzzleSolution" />
+      <module name="proj2c" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bearmaps.proj2c.slidingpuzzle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SanityTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="proj2c" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bearmaps.proj2c.sanitytests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="bearmaps.proj2c.sanitytests" />
+      <option name="MAIN_CLASS_NAME" value="bearmaps.proj2c.sanitytests.SanityTests" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-XX:+ShowCodeDetailsInExceptionMessages" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SanityTests.testStart6Goal0" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="proj2c" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bearmaps.proj2c.sanitytests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="bearmaps.proj2c.sanitytests" />
+      <option name="MAIN_CLASS_NAME" value="bearmaps.proj2c.sanitytests.SanityTests" />
+      <option name="METHOD_NAME" value="testStart6Goal0" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-XX:+ShowCodeDetailsInExceptionMessages" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <useClassPathOnly />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-XX:+ShowCodeDetailsInExceptionMessages" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DemoSlidingPuzzleSolution" />
+        <item itemvalue="Application.DemoLectureExampleSolution" />
+        <item itemvalue="JUnit.SanityTests" />
+        <item itemvalue="JUnit.SanityTests.testStart6Goal0" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bdf94f34-8b51-4a36-a0f3-0a00b4c7307b" name="Default Changelist" comment="" />
+      <created>1604817429182</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604817429182</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="480" y="338" width="479" height="245" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1604817824103">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="480" y="338" width="479" height="245" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1440.827@0.23.1440.827" timestamp="1604817824103" />
+    <state width="1398" height="266" key="GridCell.Tab.0.bottom" timestamp="1604999604086">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1398" height="266" key="GridCell.Tab.0.bottom/0.23.1440.827@0.23.1440.827" timestamp="1604999604086" />
+    <state width="1398" height="266" key="GridCell.Tab.0.center" timestamp="1604999604046">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1398" height="266" key="GridCell.Tab.0.center/0.23.1440.827@0.23.1440.827" timestamp="1604999604046" />
+    <state width="1398" height="266" key="GridCell.Tab.0.left" timestamp="1604999604046">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1398" height="266" key="GridCell.Tab.0.left/0.23.1440.827@0.23.1440.827" timestamp="1604999604046" />
+    <state width="1398" height="266" key="GridCell.Tab.0.right" timestamp="1604999604085">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1398" height="266" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1604999604085" />
+    <state width="1398" height="266" key="GridCell.Tab.1.bottom" timestamp="1604999604088">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1398" height="266" key="GridCell.Tab.1.bottom/0.23.1440.827@0.23.1440.827" timestamp="1604999604088" />
+    <state width="1398" height="266" key="GridCell.Tab.1.center" timestamp="1604999604087">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1398" height="266" key="GridCell.Tab.1.center/0.23.1440.827@0.23.1440.827" timestamp="1604999604087" />
+    <state width="1398" height="266" key="GridCell.Tab.1.left" timestamp="1604999604086">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1398" height="266" key="GridCell.Tab.1.left/0.23.1440.827@0.23.1440.827" timestamp="1604999604086" />
+    <state width="1398" height="266" key="GridCell.Tab.1.right" timestamp="1604999604087">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1398" height="266" key="GridCell.Tab.1.right/0.23.1440.827@0.23.1440.827" timestamp="1604999604087" />
+    <state x="208" y="23" width="1024" height="827" key="SettingsEditor" timestamp="1604999734170">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="208" y="23" width="1024" height="827" key="SettingsEditor/0.23.1440.827@0.23.1440.827" timestamp="1604999734170" />
+  </component>
+</project>
